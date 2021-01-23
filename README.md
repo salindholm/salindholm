@@ -7,7 +7,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-430098?style=flat-square)
+![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35bdb2?style=flat-square)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-430098?style=flat-square)
