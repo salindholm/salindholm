@@ -15,12 +15,15 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+<br/>
 ![Netlify](https://img.shields.io/badge/-Netlify-black?00C7B7?style=flat-square&logo=netlify)
 ![RSpec](https://img.shields.io/badge/-RSpec-red?430098?style=flat-square)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
+![Detox](https://img.shields.io/badge/-Detox-430098?style=flat-square)
 ![Semaphore](https://img.shields.io/badge/-Semaphore-grey?19A974?style=flat-square&logo=semaphore-ci)
 ![Coveralls](https://img.shields.io/badge/-Coveralls-3F5767?style=flat-square&logo=coveralls)
 ![Pivotal Tracker](https://img.shields.io/badge/-Pivotal%20Tracker-430098?style=flat-square&logo=pivotal-tracker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
