@@ -14,7 +14,6 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-<br/>
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?00C7B7?style=flat-square&logo=netlify)
 ![RSpec](https://img.shields.io/badge/-RSpec-red?430098?style=flat-square)
