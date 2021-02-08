@@ -39,6 +39,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Salindholm's github stats](https://github-readme-stats.vercel.app/api?username=salindholm&show_icons=true&theme=tokyonight&line_height=16&bg_color=00000000)
+![Salindholm's github stats](https://github-readme-stats.vercel.app/api?username=salindholm&show_icons=true&theme=tokyonight&line_height=16&bg_color=00000000&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salindholm&layout=compact&theme=tokyonight&langs_count=6&line_height=16&bg_color=00000000)
 
