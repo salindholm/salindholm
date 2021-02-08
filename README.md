@@ -1,6 +1,18 @@
-![Salindholm's github stats](https://github-readme-stats.vercel.app/api?username=salindholm&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salindholm&layout=compact&theme=tokyonight&langs_count=6)
-<br/> <br/>
+## Welcome to my GitHub, I hope you like it! :sparkles:
+
+  <img align="right" alt="GIF" src="https://www.pixelo.net/wp-content/uploads/2016/05/03_funny-and-inspiring-graphic-design-related-gifs.gif" />
+  
+### :raising_hand: About me:
+
+ :mortar_board: Newly graduated from Craft Academy </br>
+ 👨‍💻 Junior Full Stack Developer </br>
+ 🌱 Currently learning NodeJS </br>
+ :earth_africa: Suffering from wanderlust </br>
+ :clapper: Netflix addict </br>
+ :zap: Harry Potter fan </br>
+ 📫 Contact me by [email](sannelindholm@hotmail.com)</br>
+ :briefcase: My [portfolio](https://salindholm-portfolio.netlify.app/) </br>
+
 ### :computer: Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -25,4 +37,7 @@
 ![Pivotal Tracker](https://img.shields.io/badge/-Pivotal%20Tracker-430098?style=flat-square&logo=pivotal-tracker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Salindholm's github stats](https://github-readme-stats.vercel.app/api?username=salindholm&show_icons=true&theme=tokyonight&line_height=16)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salindholm&layout=compact&theme=tokyonight&langs_count=6&line_height=16)
 
