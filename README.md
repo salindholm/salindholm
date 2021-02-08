@@ -12,7 +12,7 @@
  :zap: Harry Potter fan </br>
  📫 Contact me by [email](sannelindholm@hotmail.com)</br>
  :briefcase: My [portfolio](https://salindholm-portfolio.netlify.app/) </br>
-
+</br>
 ### :computer: Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
