@@ -4,14 +4,14 @@
   
 ### :raising_hand: About me:
 
- :mortar_board: Newly graduated from Craft Academy </br>
- 👨‍💻 Junior Full Stack Developer </br>
- 🌱 Currently learning NodeJS </br>
- :earth_africa: Suffering from wanderlust </br>
- :clapper: Netflix addict </br>
- :zap: Harry Potter fan </br>
- 📫 Contact me by [email](sannelindholm@hotmail.com)</br>
- :briefcase: My [portfolio](https://salindholm-portfolio.netlify.app/) </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Newly graduated from Craft Academy </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Junior Full Stack Developer </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning NodeJS </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: Suffering from wanderlust </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:clapper: Netflix addict </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:zap: Harry Potter fan </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by [email](sannelindholm@hotmail.com)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:briefcase: My [portfolio](https://salindholm-portfolio.netlify.app/) </br>
 </br>
 ### :computer: Languages and Tools:
 
