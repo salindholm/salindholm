@@ -5,7 +5,7 @@
 ### :raising_hand: About me:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Newly graduated from Craft Academy </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Junior Full Stack Developer </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Full Stack Web Developer </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning NodeJS </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: Suffering from wanderlust </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:clapper: Netflix addict </br>
