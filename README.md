@@ -4,15 +4,15 @@
   
 ### :raising_hand: About me:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Newly graduated from Craft Academy </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Junior Full Stack Developer </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning NodeJS </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: Suffering from wanderlust </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:clapper: Netflix addict </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:zap: Harry Potter fan </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by [email](sannelindholm@hotmail.com)</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:briefcase: My [portfolio](https://salindholm-portfolio.netlify.app/) </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:penguin: Unintended Linux user </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Newly graduated from Craft Academy </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Junior Full Stack Developer </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning NodeJS </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: Suffering from wanderlust </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:clapper: Netflix addict </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:zap: Harry Potter fan </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by [email](sannelindholm@hotmail.com) or on [linkedin](www.linkedin.com/in/sanne-lindholm) </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:briefcase: Take a look at my [portfolio](https://salindholm-portfolio.netlify.app/) </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:penguin: Unintended Linux user </br>
 
 ### :computer: Languages and Tools:
 
