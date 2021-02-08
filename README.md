@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:zap: Harry Potter fan </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by [email](sannelindholm@hotmail.com)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:briefcase: My [portfolio](https://salindholm-portfolio.netlify.app/) </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:penguin: Linux user </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:penguin: Unintended Linux user </br>
 
 ### :computer: Languages and Tools:
 
@@ -39,6 +39,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Salindholm's github stats](https://github-readme-stats.vercel.app/api?username=salindholm&show_icons=true&theme=tokyonight&line_height=16)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salindholm&layout=compact&theme=tokyonight&langs_count=6&line_height=16)
+![Salindholm's github stats](https://github-readme-stats.vercel.app/api?username=salindholm&show_icons=true&theme=tokyonight&line_height=16&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salindholm&layout=compact&theme=tokyonight&langs_count=6&line_height=16&bg_color=00000000)
 
