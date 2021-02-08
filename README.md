@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by [email](sannelindholm@hotmail.com)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:briefcase: My [portfolio](https://salindholm-portfolio.netlify.app/) </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:penguin: Linux user </br>
-</br>
+
 ### :computer: Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
