@@ -4,15 +4,15 @@
   
 ### :raising_hand: About me:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Newly graduated from Craft Academy </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Junior Full Stack Web Developer </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning TypeScript </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: Suffering from wanderlust </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:clapper: Netflix addict </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:zap: Harry Potter fan </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by [email](sannelindholm@hotmail.com) or on [LinkedIn](https://www.linkedin.com/in/sanne-lindholm/) </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:briefcase: Take a look at my [portfolio](https://salindholm-portfolio.netlify.app/) </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:penguin: Unintended Linux user </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Newly graduated from Craft Academy </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Junior Full Stack Web Developer </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning TypeScript </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: Suffering from wanderlust </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:clapper: Netflix addict </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:zap: Harry Potter fan </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by [email](sannelindholm@hotmail.com) or on [LinkedIn](https://www.linkedin.com/in/sanne-lindholm/) </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:briefcase: Take a look at my [portfolio](https://salindholm-portfolio.netlify.app/) </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:penguin: Unintended Linux user </br>
 
 ### :computer: Languages and Tools:
 
@@ -39,6 +39,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Salindholm's github stats](https://github-readme-stats.vercel.app/api?username=salindholm&show_icons=true&theme=tokyonight&line_height=16&bg_color=00000000&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salindholm&layout=compact&theme=tokyonight&langs_count=6&line_height=16&bg_color=00000000)
+![Salindholm's github stats](https://github-readme-stats.vercel.app/api?username=salindholm&show_icons=true&theme=tokyonight&bg_color=00000000&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salindholm&layout=compact&theme=tokyonight&langs_count=6&bg_color=00000000)
 
