@@ -2,16 +2,16 @@
 
   <img align="right" alt="GIF" src="https://www.pixelo.net/wp-content/uploads/2016/05/03_funny-and-inspiring-graphic-design-related-gifs.gif" />
   
-### :raising_hand: About me:
+### :raising_hand: About Me:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Newly graduated from Craft Academy </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Newly graduated from **[Craft Academy](https://github.com/CraftAcademy)** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Junior Full Stack Web Developer </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning TypeScript </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning **[TypeScript](https://www.typescriptlang.org/)** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: Suffering from wanderlust </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:clapper: Netflix addict </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:zap: Harry Potter fan </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by [email](sannelindholm@hotmail.com) or on [LinkedIn](https://www.linkedin.com/in/sanne-lindholm/) </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:briefcase: Take a look at my [portfolio](https://salindholm-portfolio.netlify.app/) </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by **[email](sannelindholm@hotmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/sanne-lindholm/)** </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:briefcase: Take a look at my **[portfolio](https://salindholm-portfolio.netlify.app/)** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:penguin: Unintended Linux user </br>
 
 ### :computer: Languages and Tools:
