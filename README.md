@@ -1,4 +1,4 @@
-## Welcome to my GitHub, I hope you like it! :sparkles:
+## Hi there:wave: I'm Sanne Lindholm and welcome to my GitHub! :sparkles:
 
   <img align="right" alt="GIF" src="https://www.pixelo.net/wp-content/uploads/2016/05/03_funny-and-inspiring-graphic-design-related-gifs.gif" />
   
@@ -41,4 +41,3 @@
 
 ![Salindholm's github stats](https://github-readme-stats.vercel.app/api?username=salindholm&show_icons=true&theme=tokyonight&bg_color=00000000&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salindholm&layout=compact&theme=tokyonight&langs_count=6&bg_color=00000000)
-
