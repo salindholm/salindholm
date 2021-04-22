@@ -1,10 +1,10 @@
-## Hi there🙋🏼‍♀️ I'm Sanne Lindholm and welcome to my GitHub! :sparkles:
+## Hi there👋🏼 I'm Sanne Lindholm and welcome to my GitHub! :sparkles:
 
   <img align="right" alt="GIF" src="https://www.pixelo.net/wp-content/uploads/2016/05/03_funny-and-inspiring-graphic-design-related-gifs.gif" />
   
-### :raising_hand: About Me:
+### 🙋🏼‍♀️ About Me:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏼‍💻Frontend Developer at Melio Health </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏼‍💻 Frontend Developer at Melio Health </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning **[TypeScript](https://www.typescriptlang.org/)** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: Suffering from wanderlust </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:clapper: Netflix addict </br>
