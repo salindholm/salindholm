@@ -4,7 +4,7 @@
   
 ### 🙋🏼‍♀️ About Me:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏼‍💻 Frontend Developer at Melio Health </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏼‍💻 Frontend Developer at Melio </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning **[TypeScript](https://www.typescriptlang.org/)** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: Suffering from wanderlust </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:clapper: Netflix addict </br>
