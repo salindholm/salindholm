@@ -2,7 +2,7 @@
   
 ### 🙋🏼‍♀️ About Me:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏼‍💻 Full Stack Developer at Melio </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏼‍💻 Full Stack Developer</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Completed a 12 week Full Stack Web Developer Bootcamp </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning **[Tailwind](https://tailwindcss.com/)** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by **[email](sannelindholm@hotmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/sanne-lindholm/)** </br>
